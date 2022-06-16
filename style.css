@@ -67,3 +67,12 @@ img{
     width: 20%;
     height: 10vh;
 }
+.grid{
+    background-color: black;
+    width: 10%;
+    margin: 2px;
+    padding: 2px;
+}
+button a{
+    color: white;
+}
